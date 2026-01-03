@@ -9,7 +9,7 @@ The Device Compliance Script runs on the endpoint to report whether the Huntress
 The script is then used by the Compliance Policy to action accordingly. 
 
 ### Device Compliance Script
-The device compliance script must be uploaded first: [Device Compliance Script](/Device%20Compliance%20Script%20-%20Windows%20-%20Huntress.ps1)
+The device compliance script must be uploaded first: [Device Compliance Script](/Device%20Compliance%20Script%20-%20Windows%20-%20Huntress.json)
 
 <img width="1045" height="359" alt="image" src="https://github.com/user-attachments/assets/97b544bb-c5a6-4cb5-ba2f-a8808741910d" />
 
