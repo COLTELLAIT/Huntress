@@ -1,5 +1,5 @@
 # How to setup a Microsoft Intune Compliance Policy to check Huntress EDR is installed and services are running on Windows Endpoints.
-This guide provides the required steps to implement a Compliance Policy on Intune to report a device as non-compliant if Huntress is not installed and it's services running.
+This guide provides the required steps to implement a Compliance Policy on Intune to report a device as non-compliant if Huntress is not installed and it's services stop running.
 
 ## Requirements
 The requirements are in two parts, a Device Compliance Script and a Custom Compliance Policy. 
